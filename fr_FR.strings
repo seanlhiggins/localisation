@@ -1,0 +1,79 @@
+"lbl_mdl_agfa_enterprise_imaging" = "FR_lbl_mdl_agfa_enterprise_imaging";
+"lbl_xpl_referring_community" = "FR_lbl_xpl_referring_community";
+"lbl_vw_referral_details" = "FR_lbl_vw_referral_details";
+"lbl_vw_department_performing" = "FR_lbl_vw_department_performing";
+"lbl_vw_department_ordering" = "FR_lbl_vw_department_ordering";
+"lbl_vw_physician_ordering" = "FR_lbl_vw_physician_ordering";
+
+"lbl_vw_department" = "FR_lbl_vw_department";
+"lbl_dim_department_active" = "FR_lbl_dim_department_active";
+"lbl_dim_department_code" = "FR_lbl_dim_department_code";
+"lbl_dim_department_name" = "FR_lbl_dim_department_name";
+"lbl_dim_department_type_code" = "FR_lbl_dim_department_type_code";
+"lbl_dim_department_type_name" = "FR_lbl_dim_department_type_name";
+"lbl_dim_department_is_external" = "FR_lbl_dim_department_is_external";
+
+"lbl_vw_facility" = "FR_lbl_vw_facility";
+"lbl_dim_facility_active" = "FR_lbl_dim_facility_active";
+"lbl_dim_facility_code" = "FR_lbl_dim_facility_code";
+"lbl_dim_facility_name" = "FR_lbl_dim_facility_name";
+"lbl_dim_facility_is_external" = "FR_lbl_dim_facility_is_external";
+"lbl_dim_facility_type_code" = "FR_lbl_dim_facility_type_code";
+"lbl_dim_facility_type_name" = "FR_lbl_dim_facility_type_name";
+
+"lbl_vw_department_labels" = "FR_lbl_vw_department_labels";
+"lbl_dim_department_label_code" = "FR_lbl_dim_department_label_code";
+"lbl_dim_department_label_name" = "FR_lbl_dim_department_label_name";
+
+"lbl_vw_facility_labels" = "FR_lbl_vw_facility_labels";
+"lbl_dim_facility_label_code" = "FR_lbl_dim_facility_label_code";
+"lbl_dim_facility_label_name" = "FR_lbl_dim_facility_label_name";
+"lbl_vw_professional_labels" = "FR_lbl_vw_professional_labels";
+"lbl_dim_professional_label_code" = "FR_lbl_dim_professional_label_code";
+"lbl_dim_professional_label_name" = "FR_lbl_dim_professional_label_name";
+
+"lbl_vw_modality" = "FR_lbl_vw_modality";
+"lbl_dim_modality_code" = "FR_lbl_dim_modality_code";
+"lbl_dim_modality_name" = "FR_lbl_dim_modality_name";
+"lbl_dim_modality_aetitle" = "FR_lbl_dim_modality_aetitle";
+"lbl_dim_modality_calling_aetitle" = "FR_lbl_dim_modality_calling_aetitle";
+
+"lbl_vw_modality_type" = "FR_lbl_vw_modality_type";
+"lbl_dim_modality_type_code" = "FR_lbl_dim_modality_type_code";
+"lbl_dim_modality_type_name" = "FR_lbl_dim_modality_type_name";
+"lbl_dim_modality_type_dicom_code" = "FR_lbl_dim_modality_type_dicom_code";
+"lbl_dim_modality_type_dicom_name" = "FR_lbl_dim_modality_type_dicom_name";
+
+"lbl_vw_patient" = "FR_lbl_vw_patient";
+"lbl_dim_patient_date_of_birth" = "FR_lbl_dim_patient_date_of_birth";
+
+
+"lbl_vw_patient_class" = "FR_lbl_vw_patient_class";
+"lbl_dim_patient_class_code" = "FR_lbl_dim_patient_class_code";
+"lbl_dim_patient_class_name" = "FR_lbl_dim_patient_class_name";
+
+"lbl_vw_patient_type" = "FR_lbl_vw_patient_type";
+"lbl_dim_patient_type_code" = "FR_lbl_dim_patient_type_code";
+"lbl_dim_patient_type_name" = "FR_lbl_dim_patient_type_name";
+
+"lbl_vw_procedure_definition" = "FR_lbl_vw_procedure_definition";
+"lbl_dim_procedure_code" = "FR_lbl_dim_procedure_code";
+"lbl_dim_procedure_name" = "FR_lbl_dim_procedure_name";
+
+"lbl_vw_professional" = "FR_lbl_vw_professional";
+"lbl_dim_professional_active" = "FR_lbl_dim_professional_active";
+"lbl_dim_professional_code" = "FR_lbl_dim_professional_code";
+"lbl_dim_professional_first_name" = "FR_lbl_dim_professional_first_name";
+"lbl_dim_professional_last_name" = "FR_lbl_dim_professional_last_name";
+"lbl_dim_professional_full_name" = "FR_lbl_dim_professional_full_name";
+"lbl_dim_professional_maiden_name" = "FR_lbl_dim_professional_maiden_name";
+"lbl_dim_professional_middle_name" = "FR_lbl_dim_professional_middle_name";
+"lbl_dim_professional_is_external" = "FR_lbl_dim_professional_is_external";
+
+"lbl_vw_requested_procedure" = "FR_lbl_vw_requested_procedure";
+"lbl_dim_ordered_procedure_referral_date" = "FR_lbl_dim_ordered_procedure_referral_date";
+"lbl_dim_ordered_procedure_patient_age_at_referral" = "FR_lbl_dim_ordered_procedure_patient_age_at_referral";
+
+"lbl_hidden" = "Hidden";
+"lbl_measures" = "FR_Measures";
+"lbl_ms_ordered_procedure_count" = "FR_lbl_ms_ordered_procedure_count";

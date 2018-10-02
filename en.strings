@@ -1,0 +1,83 @@
+"lbl_mdl_agfa_enterprise_imaging" = "AGFA Enterprise Imaging";
+"lbl_xpl_referring_community" = "Referring community";
+"lbl_vw_referral_details" = "Referral details";
+"lbl_vw_department_performing" = "Department (performing)";
+"lbl_vw_department_ordering" = "Department (ordering)";
+"lbl_vw_physician_ordering" = "Physician (ordering)";
+
+"lbl_mdl_ei_task_live" = "EI tasks (live)";
+
+
+"lbl_vw_department" = "Department";
+"lbl_dim_department_active" = "Active";
+"lbl_dim_department_code" = "Code";
+"lbl_dim_department_name" = "Name";
+"lbl_dim_department_type_code" = "Type code";
+"lbl_dim_department_type_name" = "Type name";
+"lbl_dim_department_is_external" = "Is external";
+
+"lbl_vw_facility" = "Facility";
+"lbl_dim_facility_active" = "Facility active";
+"lbl_dim_facility_code" = "Facility code";
+"lbl_dim_facility_name" = "Facility name";
+"lbl_dim_facility_is_external" = "Facility is external";
+"lbl_dim_facility_type_code" = "Facility type code";
+"lbl_dim_facility_type_name" = "Facility type name";
+
+"lbl_vw_department_labels" = "Department labels";
+"lbl_dim_department_label_code" = "Department label code";
+"lbl_dim_department_label_name" = "Department label name";
+
+"lbl_vw_facility_labels" = "Facility labels";
+"lbl_dim_facility_label_code" = "Facility label code";
+"lbl_dim_facility_label_name" = "Facility label name";
+
+"lbl_vw_professional_labels" = "Professional labels";
+"lbl_dim_professional_label_code" = "Label code";
+"lbl_dim_professional_label_name" = "Label name";
+
+"lbl_vw_modality" = "Modality";
+"lbl_dim_modality_code" = "Code";
+"lbl_dim_modality_name" = "Name";
+"lbl_dim_modality_aetitle" = "AE Title";
+"lbl_dim_modality_calling_aetitle" = "Calling AE Title";
+
+"lbl_vw_modality_type" = "Modality type";
+"lbl_dim_modality_type_code" = "Code";
+"lbl_dim_modality_type_name" = "Name";
+"lbl_dim_modality_type_dicom_code" = "DICOM code";
+"lbl_dim_modality_type_dicom_name" = "DICOM name";
+
+"lbl_vw_patient" = "Patient";
+"lbl_dim_patient_date_of_birth" = "Date of birth";
+
+
+"lbl_vw_patient_class" = "Patient class";
+"lbl_dim_patient_class_code" = "Code";
+"lbl_dim_patient_class_name" = "Name";
+
+"lbl_vw_patient_type" = "Patient type";
+"lbl_dim_patient_type_code" = "Code";
+"lbl_dim_patient_type_name" = "Name";
+
+"lbl_vw_procedure_definition" = "Procedure definition";
+"lbl_dim_procedure_code" = "Code";
+"lbl_dim_procedure_name" = "Name";
+
+"lbl_vw_professional" = "Professional";
+"lbl_dim_professional_active" = "Active";
+"lbl_dim_professional_code" = "Code";
+"lbl_dim_professional_first_name" = "First name";
+"lbl_dim_professional_last_name" = "Last name";
+"lbl_dim_professional_full_name" = "Full name";
+"lbl_dim_professional_maiden_name" = "Maiden name";
+"lbl_dim_professional_middle_name" = "Middle name";
+"lbl_dim_professional_is_external" = "Is external";
+
+"lbl_vw_requested_procedure" = "Ordered procedure";
+"lbl_dim_ordered_procedure_referral_date" = "Referral date";
+"lbl_dim_ordered_procedure_patient_age_at_referral" = "Patient age (at referral)";
+
+"lbl_hidden" = "Hidden";
+"lbl_measures" = "Measures";
+"lbl_ms_ordered_procedure_count" = "# Ordered procedures";
